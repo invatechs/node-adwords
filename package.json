@@ -25,7 +25,7 @@
     "googleapis": "^13.0.0",
     "moment": "^2.15.0",
     "request": "^2.73.0",
-    "soap": "^0.17.0",
+    "soap": "git://github.com/invatechs/node-soap.git",
     "underscore": "^1.8.3",
     "xmlbuilder": "^8.2.2"
   },
